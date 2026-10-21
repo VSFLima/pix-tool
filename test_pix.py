@@ -1,10 +1,11 @@
 """Testes do modulo 1: pix_core (TLV, CRC16, BR Code, QR Code)."""
 
 import base64
+import os
 import sys
 import unittest
 
-sys.path.insert(0, "/data/data/com.termux/files/home/pix-tool")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import pix_core as pix
 
