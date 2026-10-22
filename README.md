@@ -13,6 +13,7 @@ CLI em Python + biblioteca para montar o copia-e-cola, decodificar, trocar chave
 ![CLI](https://img.shields.io/badge/CLI-Termux-6e5494?style=for-the-badge)
 ![Testes](https://img.shields.io/badge/testes-unittest-6E9F18?style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/Telegram-%40vsf__lima-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vsf_lima)
+![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
 
 </div>
 
@@ -132,7 +133,15 @@ A suíte cobre TLV, CRC16, montagem/parsing do BR Code, edição, conversão e o
 
 ## 📌 Status
 
-CLI + biblioteca estáveis no escopo atual, com testes de unidade e de integração. Repositório privado.
+CLI + biblioteca estáveis no escopo atual, com testes de unidade e de integração. Repositório público.
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas! Leia o [`CONTRIBUTING.md`](CONTRIBUTING.md). O projeto é open source sob a licença MIT.
+
+## 📄 Licença
+
+Distribuído sob a licença **MIT**. Veja [`LICENSE`](LICENSE).
 
 ## 🙏 Créditos
 
